@@ -5,7 +5,7 @@ This is an improvement of baesline on the ogbn-arxiv dataset.
 
 The framework is shown in the figure.
 
-![ResGCN](/Users/chihuixuan/myfile/大四/GCN/阅读笔记/ResGCN.png)
+![ResGCN](./img/ResGCN.png)
 
 #### Improvement Strategy：
 
