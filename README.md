@@ -13,6 +13,12 @@ The framework is shown in the figure.
 + add initial residual connection inspired by GCNII
 + add jumping knowledge inspired by JKNet
 
+#### Environmental Requirements
+
++ pytorch >= 1.6.0
++ pytorch_geometric >= 1.6.0
++ ogb >= 1.2.4
+
 #### Experiment Setup：
 
 The model is 8 layers, and runs 500 epochs.
